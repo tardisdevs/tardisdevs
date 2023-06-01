@@ -1,7 +1,7 @@
 - 📚 Grupo de alunos do curso Full Stack pela Estácio
 - 🧑‍💻 Estudando Mundo 1 (Python)
 - 👤 Membros:
-Brayan Balbino / Gustavo Souza / Jefferson Sandoval / Marcos Paulo / Paulo Roberto / Wesley Rodrigues
+Brayan Balbino / Marcos Paulo 
 
 ![Tardis GitHub stats](https://github-readme-stats.vercel.app/api?username=tardisdev&show_icons=true&theme=dracula)
 
